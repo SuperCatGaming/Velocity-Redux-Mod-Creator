@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38e2139bdad76ea4e942cdc7bbe48f0a, type: 3}
+  m_Name: BoxCar
+  m_EditorClassIdentifier: 
+  id: boxCar
+  carName: mod.vrx.mod_test.cars.boxCar.name
+  carCreator: SCG
+  carPeriod: 
+  bypassUnlock: 0
+  secretCar: 0
+  carReference: {fileID: 1488388199681575451, guid: 8b7084b2b49a6f24aa4d0565b07283e4, type: 3}
+  carSkins:
+  - {fileID: 11400000, guid: 0a3c08b38576b0d4ca535c3fe51c7d85, type: 2}
+  - {fileID: 11400000, guid: 19b8fb9dcd7bff0429d5f68ba02dd8fe, type: 2}
+  carNeedsNewIcons: 0

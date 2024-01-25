@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ced57d5830326fc4a816ab38b6f86e5c, type: 3}
+  m_Name: Race
+  m_EditorClassIdentifier: 
+  id: modLevel.race
+  translatablePrefix: 
+  translatableName: event.race
+  gameMode: 2
+  carSpawns: []
+  gameModeObjects:
+  - {fileID: 597920663164834234, guid: ce3df1ef7464fed4098aea26fcb96a5c, type: 3}
+  overrideMusicId: 
+  RaceCheckpointTotal: 3
+  RaceSupportsLaps: 1
+  RaceIsFastCross: 0
+  GearHuntUnlockKey: 0
+  GearHuntKeyUnlock: 
+  GearHuntUnlockGears: 0
+  GearHuntGearsRequired: 0
+  GearHuntGearsUnlock: 
+  RacePlatinumTime: 150
+  RaceGoldTime: 170
+  RaceSilverTime: 190
+  RaceBronzeTime: 230
+  RacePlatinumUnlock: 
+  RaceGoldUnlock: 
+  RaceSilverUnlock: 
+  RaceBronzeUnlock: 
+  missionSections: []

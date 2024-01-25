@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ced57d5830326fc4a816ab38b6f86e5c, type: 3}
+  m_Name: Joyride
+  m_EditorClassIdentifier: 
+  id: modLevel.joyride
+  translatablePrefix: 
+  translatableName: event.joyride
+  gameMode: 0
+  carSpawns: []
+  gameModeObjects: []
+  overrideMusicId: 
+  RaceCheckpointTotal: 0
+  RaceSupportsLaps: 0
+  RaceIsFastCross: 0
+  GearHuntUnlockKey: 0
+  GearHuntKeyUnlock: 
+  GearHuntUnlockGears: 0
+  GearHuntGearsRequired: 0
+  GearHuntGearsUnlock: 
+  RacePlatinumTime: 3600
+  RaceGoldTime: 3601
+  RaceSilverTime: 3602
+  RaceBronzeTime: 3603
+  RacePlatinumUnlock: 
+  RaceGoldUnlock: 
+  RaceSilverUnlock: 
+  RaceBronzeUnlock: 
+  missionSections: []

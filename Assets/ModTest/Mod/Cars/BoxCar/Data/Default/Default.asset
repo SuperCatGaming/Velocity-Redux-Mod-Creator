@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea9fde673bf49e547a29410668bb2ec3, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  id: default
+  skinName: mod.vrx.mod_test.cars.boxCar.skin.default.name
+  skinLongName: mod.vrx.mod_test.cars.boxCar.skin.default.name
+  skinCreator: SCG
+  skinPeriod: 
+  skinImage: {fileID: 2800000, guid: 4f25c36c48601b244bbca99397323217, type: 3}
+  skinRimColor: {r: 0, g: 0, b: 0, a: 0}
+  skinRimSecondary: {r: 0, g: 0, b: 0, a: 0}
+  skinTireColor: {r: 0, g: 0, b: 0, a: 0}
+  defaultRim: vrx.5_dot
+  skinColorChangeable: 0
+  skinColorSlots: 
+  skinColorDefault: {r: 1, g: 1, b: 1, a: 1}
+  bypassUnlock: 1
+  skinMaterials:
+  - {fileID: 11400000, guid: 65075ca324c78674c9803fea48671a10, type: 2}
+  RimNames:
+  - vrx.phil_riehlman_5_spoke
+  - vrx.screamin_phil_riehlman_5_spoke
+  - vrx.phil_riehlman_5_spoke_velocity_x
+  - vrx.3_spoke
+  - vrx.5_dot
+  - vrx.basic_wheel_black_wall
+  - vrx.basic_wheel_white_wall
+  - vrx.world_race_movie_5_spoke
+  - vrx.5_spoke
+  - vrx.hot_hubs
+  - vrx.off_road_5_spoke
+  - vrx.skull_wheel
+  - vrx.teku_5_spoke
+  - vrx.aerodisc
+  - vrx.co_molded_6_spoke
+  - vrx.movie_drone_dish
+  - vrx.off_road_6_spoke
+  - vrx.ryu_asada_6_spoke
+  - vrx.sawblade
+  - vrx.off_road_sawblade
+  - vrx.blings_wheel
+  - vrx.open_hole_5_spoke
+  - vrx.y_5_spoke
+  - vrx.co_molded_5_spoke
+  - vrx.hot_one
+  - vrx.original_redline
+  - vrx.flipper_neo
+  - vrx.japanese_5_spoke
+  - vrx.ultra_hots
+  - vrx.construction_tire_type_2
+  - vrx.10_spoke
+  - vrx.manson_cheung_5_spoke
+  - vrx.corgi_slicks
+  - vrx.6_spoke_split
+  - vrx.6_dot
+  - vrx.progressive_oval_wheel
+  - vrx.10_dotted_dish
+  - vrx.hf_5_spoke
+  - vrx.7_spoke
+  - vrx.lace_wheel_wire_spoke
+  - vrx.trapezoid_5_spoke
+  - vrx.sweeper_wheel
+  - vrx.deep_dish_8_spoke
+  - vrx.omi_industries
+  - vrx.screamin_f40
+  - vrx.advans
+  - vrx.puma

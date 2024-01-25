@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab9ba10bfbb4e9e4d872044e2aa0a678, type: 3}
+  m_Name: Section 1
+  m_EditorClassIdentifier: 
+  sectionTitle: mod.vrx.mod_test.event.mod_level.missionTest.section1
+  sectionTimeLimit: 250
+  sectionObjects: []
+  sectionGoal: 0
+  goalObject: {fileID: 412515170674014100, guid: 7d767c6f921c4824684cd6fead2b2891, type: 3}
+  enemyCount: 0
+  subSections: []
+  references:
+    version: 2
+    RefIds: []

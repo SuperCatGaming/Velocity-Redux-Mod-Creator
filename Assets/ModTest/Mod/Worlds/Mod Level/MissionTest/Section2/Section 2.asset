@@ -1,0 +1,1390 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab9ba10bfbb4e9e4d872044e2aa0a678, type: 3}
+  m_Name: Section 2
+  m_EditorClassIdentifier: 
+  sectionTitle: mod.vrx.mod_test.event.mod_level.missionTest.section2
+  sectionTimeLimit: 800
+  sectionObjects:
+  - {fileID: 3572962149997087895, guid: 024788d6d87d7b34dbd10e746e686401, type: 3}
+  sectionGoal: 1
+  goalObject: {fileID: 0}
+  enemyCount: 2
+  subSections:
+  - type: 4
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: 
+      skin: 
+      rims: 
+      weaponIndex: 0
+      spawnPosition: {x: 0, y: 0, z: 0}
+      spawnRotation: {x: 0, y: 0, z: 0, w: 0}
+      healthPercentage: 25
+      requireKill: 0
+    createClosingDoor:
+      name: NO NAME
+      waitToFinish: 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: 0, y: 0, z: 0}
+      cameraRotation: {x: 0, y: 0, z: 0, w: 0}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 60
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 0
+      transitionDuration: 0.5
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 0
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 5
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: 
+      skin: 
+      rims: 
+      weaponIndex: 0
+      spawnPosition: {x: 0, y: 0, z: 0}
+      spawnRotation: {x: 0, y: 0, z: 0, w: 0}
+      healthPercentage: 25
+      requireKill: 0
+    createClosingDoor:
+      name: NO NAME
+      waitToFinish: 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: 0, y: 0, z: 0}
+      cameraRotation: {x: 0, y: 0, z: 0, w: 0}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 60
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 0
+      transitionDuration: 0.5
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 0
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 0
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: vrx.muscle_tone
+      skin: vrx.2001_mainline
+      rims: vrx.phil_riehlman_5_spoke_velocity_x
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 65, z: 505}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: NO NAME
+      waitToFinish: 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: 0, y: 0, z: 0}
+      cameraRotation: {x: 0, y: 0, z: 0, w: 0}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 60
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 0
+      transitionDuration: 0.5
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 0
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 0
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.boxCar
+      skin: mod.vrx.mod_test.default
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: NO NAME
+      waitToFinish: 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: 0, y: 0, z: 0}
+      cameraRotation: {x: 0, y: 0, z: 0, w: 0}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 60
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 0
+      transitionDuration: 0.5
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 0
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 7
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.1_4_mile_mod
+      skin: mod.vrx.mod_test.hr2
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: NO NAME
+      waitToFinish: 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: 0, y: 0, z: 0}
+      cameraRotation: {x: 0, y: 0, z: 0, w: 0}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 60
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: NO NAME
+      waitToFinish: 0
+      transitionType: 0
+      transitionDuration: 0.5
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 0
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 8
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.1_4_mile_mod
+      skin: mod.vrx.mod_test.hr2
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: NO NAME
+      waitToFinish: 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: 0, y: 0, z: 0}
+      cameraRotation: {x: 0, y: 0, z: 0, w: 0}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 60
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 0
+      transitionDuration: 0.5
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 1
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 7
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.1_4_mile_mod
+      skin: mod.vrx.mod_test.hr2
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: NO NAME
+      waitToFinish: 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: 0, y: 0, z: 0}
+      cameraRotation: {x: 0, y: 0, z: 0, w: 0}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 60
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 2
+      transitionDuration: 0.5
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 1
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 2
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.1_4_mile_mod
+      skin: mod.vrx.mod_test.hr2
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: NO NAME
+      waitToFinish: 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: -298, y: 121, z: 475}
+      cameraRotation: {x: 0.18301274, y: -0.68301266, z: 0.18301274, w: 0.68301266}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 60
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 2
+      transitionDuration: 0.5
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 1
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 8
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.1_4_mile_mod
+      skin: mod.vrx.mod_test.hr2
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: NO NAME
+      waitToFinish: 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: 308, y: 91, z: 528.5}
+      cameraRotation: {x: 0.18301272, y: -0.68301266, z: 0.18301272, w: 0.68301266}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 60
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 2
+      transitionDuration: 0.5
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 0.5
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 7
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.1_4_mile_mod
+      skin: mod.vrx.mod_test.hr2
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: NO NAME
+      waitToFinish: 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: 308, y: 91, z: 528.5}
+      cameraRotation: {x: 0.18301272, y: -0.68301266, z: 0.18301272, w: 0.68301266}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 60
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 3
+      transitionDuration: 0.25
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 0.5
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 1
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.1_4_mile_mod
+      skin: mod.vrx.mod_test.hr2
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: Door1
+      waitToFinish: 0
+      position: {x: -365, y: 58, z: 528.5}
+      rotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      permanent: 1
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: 308, y: 91, z: 528.5}
+      cameraRotation: {x: 0.18301272, y: -0.68301266, z: 0.18301272, w: 0.68301266}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 60
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 3
+      transitionDuration: 0.25
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 0.5
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 1
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.1_4_mile_mod
+      skin: mod.vrx.mod_test.hr2
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: Door2
+      waitToFinish: 0
+      position: {x: -307, y: 66, z: 568}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: 308, y: 91, z: 528.5}
+      cameraRotation: {x: 0.18301272, y: -0.68301266, z: 0.18301272, w: 0.68301266}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 60
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 3
+      transitionDuration: 0.25
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 0.5
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 8
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.1_4_mile_mod
+      skin: mod.vrx.mod_test.hr2
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: Door2
+      waitToFinish: 0
+      position: {x: -307, y: 66, z: 568}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: 308, y: 91, z: 528.5}
+      cameraRotation: {x: 0.18301272, y: -0.68301266, z: 0.18301272, w: 0.68301266}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 60
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 3
+      transitionDuration: 0.25
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 2
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 7
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.1_4_mile_mod
+      skin: mod.vrx.mod_test.hr2
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: Door2
+      waitToFinish: 0
+      position: {x: -307, y: 66, z: 568}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: 308, y: 91, z: 528.5}
+      cameraRotation: {x: 0.18301272, y: -0.68301266, z: 0.18301272, w: 0.68301266}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 60
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 2
+      transitionDuration: 0.5
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 2
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 2
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.1_4_mile_mod
+      skin: mod.vrx.mod_test.hr2
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: Door2
+      waitToFinish: 0
+      position: {x: -307, y: 66, z: 568}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: -300, y: 149, z: 474}
+      cameraRotation: {x: 0.4226183, y: 0, z: 0, w: 0.90630776}
+      aiIndex: 0
+      cameraOrbit: 1
+      orbitSpeed: -30
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 2
+      transitionDuration: 0.5
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 2
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 8
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.1_4_mile_mod
+      skin: mod.vrx.mod_test.hr2
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: Door2
+      waitToFinish: 0
+      position: {x: -307, y: 66, z: 568}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: -300, y: 149, z: 474}
+      cameraRotation: {x: 0.4226183, y: 0, z: 0, w: 0.90630776}
+      aiIndex: 0
+      cameraOrbit: 1
+      orbitSpeed: -30
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 2
+      transitionDuration: 0.5
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 0.5
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 7
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.1_4_mile_mod
+      skin: mod.vrx.mod_test.hr2
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: Door2
+      waitToFinish: 0
+      position: {x: -307, y: 66, z: 568}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: -300, y: 149, z: 474}
+      cameraRotation: {x: 0.4226183, y: 0, z: 0, w: 0.90630776}
+      aiIndex: 0
+      cameraOrbit: 1
+      orbitSpeed: -30
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 3
+      transitionDuration: 0.25
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 0.5
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 6
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.1_4_mile_mod
+      skin: mod.vrx.mod_test.hr2
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: Door2
+      waitToFinish: 0
+      position: {x: -307, y: 66, z: 568}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: -300, y: 149, z: 474}
+      cameraRotation: {x: 0.4226183, y: 0, z: 0, w: 0.90630776}
+      aiIndex: 0
+      cameraOrbit: 1
+      orbitSpeed: -30
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: mod.vrx.mod_test.event.mod_level.missionTest.section2
+      body: mod.vrx.mod_test.event.mod_level.missionTest.section2.desc
+      duration: 5
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 3
+      transitionDuration: 0.25
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 0.5
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 7
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.1_4_mile_mod
+      skin: mod.vrx.mod_test.hr2
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: Door2
+      waitToFinish: 0
+      position: {x: -307, y: 66, z: 568}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: -300, y: 149, z: 474}
+      cameraRotation: {x: 0.4226183, y: 0, z: 0, w: 0.90630776}
+      aiIndex: 0
+      cameraOrbit: 1
+      orbitSpeed: -30
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: mod.vrx.mod_test.event.mod_level.missionTest.section2
+      body: mod.vrx.mod_test.event.mod_level.missionTest.section2.desc
+      duration: 5
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 1
+      transitionDuration: 0.5
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 0.5
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 8
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.1_4_mile_mod
+      skin: mod.vrx.mod_test.hr2
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: Door2
+      waitToFinish: 0
+      position: {x: -307, y: 66, z: 568}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: -300, y: 149, z: 474}
+      cameraRotation: {x: 0.4226183, y: 0, z: 0, w: 0.90630776}
+      aiIndex: 0
+      cameraOrbit: 1
+      orbitSpeed: -30
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: mod.vrx.mod_test.event.mod_level.missionTest.section2
+      body: mod.vrx.mod_test.event.mod_level.missionTest.section2.desc
+      duration: 5
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 1
+      transitionDuration: 0.5
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 1
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 2
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.1_4_mile_mod
+      skin: mod.vrx.mod_test.hr2
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: Door2
+      waitToFinish: 0
+      position: {x: -307, y: 66, z: 568}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 1
+      cameraPosition: {x: -300, y: 149, z: 474}
+      cameraRotation: {x: 0.4226183, y: 0, z: 0, w: 0.90630776}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: -30
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: mod.vrx.mod_test.event.mod_level.missionTest.section2
+      body: mod.vrx.mod_test.event.mod_level.missionTest.section2.desc
+      duration: 5
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 1
+      transitionDuration: 0.5
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 1
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 4
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.1_4_mile_mod
+      skin: mod.vrx.mod_test.hr2
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: Door2
+      waitToFinish: 0
+      position: {x: -307, y: 66, z: 568}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 1
+      cameraPosition: {x: -300, y: 149, z: 474}
+      cameraRotation: {x: 0.4226183, y: 0, z: 0, w: 0.90630776}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: -30
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 1
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: mod.vrx.mod_test.event.mod_level.missionTest.section2
+      body: mod.vrx.mod_test.event.mod_level.missionTest.section2.desc
+      duration: 5
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 1
+      transitionDuration: 0.5
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 1
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 5
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.1_4_mile_mod
+      skin: mod.vrx.mod_test.hr2
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: Door2
+      waitToFinish: 0
+      position: {x: -307, y: 66, z: 568}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 1
+      cameraPosition: {x: -300, y: 149, z: 474}
+      cameraRotation: {x: 0.4226183, y: 0, z: 0, w: 0.90630776}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: -30
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 1
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 1
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: mod.vrx.mod_test.event.mod_level.missionTest.section2
+      body: mod.vrx.mod_test.event.mod_level.missionTest.section2.desc
+      duration: 5
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 1
+      transitionDuration: 0.5
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 1
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+  - type: 9
+    createAICar:
+      name: NO NAME
+      waitToFinish: 1
+      car: mod.vrx.mod_test.1_4_mile_mod
+      skin: mod.vrx.mod_test.hr2
+      rims: mod.vrx.mod_test.bw
+      weaponIndex: 0
+      spawnPosition: {x: -339, y: 61, z: 550}
+      spawnRotation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+      healthPercentage: 25
+      requireKill: 1
+    createClosingDoor:
+      name: Door2
+      waitToFinish: 0
+      position: {x: -307, y: 66, z: 568}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      permanent: 0
+    handleCamera:
+      name: NO NAME
+      waitToFinish: 1
+      cameraFocus: 1
+      cameraPosition: {x: -300, y: 149, z: 474}
+      cameraRotation: {x: 0.4226183, y: 0, z: 0, w: 0.90630776}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: -30
+    removeAllClosingDoors:
+      name: NO NAME
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 1
+    showGameUI:
+      name: NO NAME
+      waitToFinish: 1
+      show: 1
+    showModalPopup:
+      name: NO NAME
+      waitToFinish: 1
+      header: mod.vrx.mod_test.event.mod_level.missionTest.section2
+      body: mod.vrx.mod_test.event.mod_level.missionTest.section2.desc
+      duration: 5
+    transition:
+      name: NO NAME
+      waitToFinish: 1
+      transitionType: 1
+      transitionDuration: 0.5
+    wait:
+      name: NO NAME
+      waitToFinish: 1
+      time: 1
+    waitForAllEnemiesToBeKilled:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0

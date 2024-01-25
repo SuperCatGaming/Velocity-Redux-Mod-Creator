@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0116bb76847083a44947286c74453700, type: 3}
+  m_Name: 10-Pack Again
+  m_EditorClassIdentifier: 
+  id: 10again
+  skinName: mod.vrx.mod_test.skin.10pack.name
+  skinLongName: mod.vrx.mod_test.skin.10pack.long
+  skinCreator: me!
+  skinPeriod: sometime in november
+  skinImage: {fileID: 2800000, guid: 0f7f74563edd4b347ad31e9d2876ba4c, type: 3}
+  carId: vrx.1_4_mile_coupe
+  skinRimColor: {r: 1, g: 1, b: 1, a: 1}
+  skinRimSecondary: {r: 0, g: 0.5411765, b: 0.6509804, a: 1}
+  skinTireColor: {r: 0, g: 0, b: 0, a: 1}
+  defaultRim: vrx.6_spoke_split
+  skinColorChangeable: 0
+  skinColorSlots: 
+  skinColorDefault: {r: 1, g: 1, b: 1, a: 1}
+  bypassUnlock: 1
+  skinMaterials:
+  - {fileID: 11400000, guid: 298e4ad6d5240c94f91b311c0685393b, type: 2}
+  CarNames:
+  - vrx.1_4_mile_coupe
+  - vrx.16_angels
+  - vrx.24_seven
+  - vrx.40_somethin
+  - vrx.aeroflash
+  - vrx.arachnorod
+  - vrx.at_a_tude
+  - vrx.ballistik
+  - vrx.bassline
+  - vrx.battle_spec
+  - vrx.bedlam
+  - vrx.bully_goat
+  - vrx.cat_a_pult
+  - vrx.chicane
+  - vrx.covelight
+  - vrx.deora
+  - vrx.deora_ii
+  - vrx.donut_drifter
+  - vrx.double_vision
+  - vrx.drift_tech
+  - vrx.el_segundo_coupe
+  - vrx.express_lane
+  - vrx.fandango
+  - vrx.fast_fuse
+  - vrx.firestorm
+  - vrx.flashfire
+  - vrx.furiosity
+  - vrx.greased_lightnin
+  - vrx.ground_fx
+  - vrx.gt_scorcher
+  - vrx.hammered_coupe
+  - vrx.hi_roller
+  - vrx.high_voltage
+  - vrx.hollowback
+  - vrx.hw_prototype_12
+  - vrx.hw_warp_speeder
+  - vrx.hyperliner
+  - vrx.hyper_mite
+  - vrx.jaded
+  - vrx.jaw_jammer
+  - vrx.jet_threat_3_0
+  - vrx.krazy_8s
+  - vrx.lakester
+  - vrx.letter_getter
+  - vrx.lindster_prototype
+  - vrx.maelstrom
+  - vrx.mega_duty
+  - vrx.mega_thrust
+  - vrx.mid_drift
+  - vrx.moto_crossed
+  - vrx.ms_t_suzuka
+  - vrx.muscle_and_blown
+  - vrx.muscle_tone
+  - vrx.nerve_hammer
+  - vrx.nitrium
+  - vrx.overbored_454
+  - vrx.paradigm_shift
+  - vrx.phantom_racer
+  - vrx.pony_up
+  - vrx.power_pipes
+  - vrx.power_pistons
+  - vrx.power_rage
+  - vrx.power_rocket
+  - vrx.radar_ranger
+  - vrx.rapid_transit
+  - vrx.rd_04
+  - vrx.rd_09
+  - vrx.red_baron
+  - vrx.reverb
+  - vrx.reverb_bf5
+  - vrx.rigor_motor
+  - vrx.rivited
+  - vrx.road_rocket
+  - vrx.rocket_box
+  - vrx.rodger_dodger
+  - vrx.roll_cage
+  - vrx.rollin_thunder
+  - vrx.rsc
+  - vrx.saber
+  - vrx.shadow_jet
+  - vrx.shadow_jet_ii
+  - vrx.shadow_mk_iia
+  - vrx.sho_stopper
+  - vrx.side_draft
+  - vrx.sinistra
+  - vrx.sixy_beast
+  - vrx.sling_shot
+  - vrx.sol_aire_cx4
+  - vrx.sooo_fast
+  - vrx.speed_blaster
+  - vrx.spine_buster
+  - vrx.splittin_image_ii
+  - vrx.steamin_gleamin
+  - vrx.super_tsunami
+  - vrx.super_tuned
+  - vrx.surf_crate
+  - vrx.surfin_school_bus
+  - vrx.sweet_16_ii
+  - vrx.switchback
+  - vrx.synkro
+  - vrx.the_demon
+  - vrx.tow_jam
+  - vrx.turbine_sublime
+  - vrx.twang_thang
+  - vrx.twin_mill
+  - vrx.twin_mill_ii
+  - vrx.twin_mill_gen_e
+  - vrx.vulture
+  - vrx.way_2_fast
+  - vrx.wild_thing
+  - vrx.zotic
+  - vrx.normalcar
+  - vrx.bassline_gtr
+  - vrx.sweeper
+  - vrx.roadbuster
+  RimNames:
+  - vrx.phil_riehlman_5_spoke
+  - vrx.screamin_phil_riehlman_5_spoke
+  - vrx.phil_riehlman_5_spoke_velocity_x
+  - vrx.3_spoke
+  - vrx.5_dot
+  - vrx.basic_wheel_black_wall
+  - vrx.basic_wheel_white_wall
+  - vrx.world_race_movie_5_spoke
+  - vrx.5_spoke
+  - vrx.hot_hubs
+  - vrx.off_road_5_spoke
+  - vrx.skull_wheel
+  - vrx.teku_5_spoke
+  - vrx.aerodisc
+  - vrx.co_molded_6_spoke
+  - vrx.movie_drone_dish
+  - vrx.off_road_6_spoke
+  - vrx.ryu_asada_6_spoke
+  - vrx.sawblade
+  - vrx.off_road_sawblade
+  - vrx.blings_wheel
+  - vrx.open_hole_5_spoke
+  - vrx.y_5_spoke
+  - vrx.co_molded_5_spoke
+  - vrx.hot_one
+  - vrx.original_redline
+  - vrx.flipper_neo
+  - vrx.japanese_5_spoke
+  - vrx.ultra_hots
+  - vrx.construction_tire_type_2
+  - vrx.10_spoke
+  - vrx.manson_cheung_5_spoke
+  - vrx.corgi_slicks
+  - vrx.6_spoke_split
+  - vrx.6_dot
+  - vrx.progressive_oval_wheel
+  - vrx.10_dotted_dish
+  - vrx.hf_5_spoke
+  - vrx.7_spoke
+  - vrx.lace_wheel_wire_spoke
+  - vrx.trapezoid_5_spoke
+  - vrx.sweeper_wheel
+  - vrx.deep_dish_8_spoke
+  - vrx.omi_industries
+  - vrx.screamin_f40
+  - vrx.advans
+  - vrx.puma

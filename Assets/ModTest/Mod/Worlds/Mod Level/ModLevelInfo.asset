@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f83418903f4b7f746ba35203297b8019, type: 3}
+  m_Name: ModLevelInfo
+  m_EditorClassIdentifier: 
+  id: modLevel
+  translatableName: mod.vrx.mod_test.scene.mod_level
+  scenePath: Mod Level
+  sceneModes:
+  - {fileID: 11400000, guid: a818c5e8b66936449b6e0b185ea8b65b, type: 2}
+  - {fileID: 11400000, guid: f9d0be5324cba3642a7189f8e27ec785, type: 2}
+  - {fileID: 11400000, guid: a005abae8baa6904eaa57f5a10220775, type: 2}
+  - {fileID: 11400000, guid: 7a101bdf6f2c67b48a8095903a36cb47, type: 2}
+  - {fileID: 11400000, guid: 747a4da6a182a2e4885ba8e7f6cfc3a9, type: 2}
+  - {fileID: 11400000, guid: a91391dcb8530464596909dc2958eaf1, type: 2}
+  - {fileID: 11400000, guid: 49426b81178fc324c831576d315f4ab1, type: 2}
+  worldCategory: 7
+  worldDescription: 
+  worldThumbnail: {fileID: 0}
+  useHeadlights: 0
+  killplaneHeight: -100

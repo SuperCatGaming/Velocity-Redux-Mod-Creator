@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a573954e90b4d54fa9217e018427b53, type: 3}
+  m_Name: Greenier
+  m_EditorClassIdentifier: 
+  id: greenier
+  themeName: mod.vrx.mod_test.theme.greenier
+  themeBlock:
+    m_NormalColor: {r: 0.037773278, g: 0.6132076, b: 0, a: 0.9019608}
+    m_HighlightedColor: {r: 0.20624185, g: 1, b: 0, a: 0.9019608}
+    m_PressedColor: {r: 0.048413683, g: 0.24528301, b: 0, a: 0.9019608}
+    m_SelectedColor: {r: 0.64246017, g: 1, b: 0.5801887, a: 0.9019608}
+    m_DisabledColor: {r: 0.23286904, g: 0.3490566, b: 0.22886258, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1

@@ -1,0 +1,763 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab9ba10bfbb4e9e4d872044e2aa0a678, type: 3}
+  m_Name: Section 3
+  m_EditorClassIdentifier: 
+  sectionTitle: mod.vrx.mod_test.event.mod_level.missionTest.section3
+  sectionTimeLimit: 400
+  sectionObjects:
+  - {fileID: 7158726718126255259, guid: e451acd4a98c835488295f66b7f9a646, type: 3}
+  sectionGoal: 0
+  goalObject: {fileID: 4571742661028252215, guid: 999337db932b6ec4b811aaf2cfab9c69, type: 3}
+  enemyCount: 0
+  subSections:
+  - type: 4
+    createAICar:
+      name: 
+      waitToFinish: 0
+      car: 
+      skin: 
+      rims: 
+      weaponIndex: 0
+      spawnPosition: {x: 0, y: 0, z: 0}
+      spawnRotation: {x: 0, y: 0, z: 0, w: 0}
+      healthPercentage: 0
+      requireKill: 0
+    createClosingDoor:
+      name: 
+      waitToFinish: 0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: 
+      waitToFinish: 0
+      cameraFocus: 0
+      cameraPosition: {x: 0, y: 0, z: 0}
+      cameraRotation: {x: 0, y: 0, z: 0, w: 0}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 0
+    removeAllClosingDoors:
+      name: 
+      waitToFinish: 0
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: 
+      waitToFinish: 0
+      show: 0
+    showModalPopup:
+      name: 
+      waitToFinish: 0
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: 
+      waitToFinish: 0
+      transitionType: 0
+      transitionDuration: 0
+    wait:
+      name: 
+      waitToFinish: 0
+      time: 0
+    waitForAllEnemiesToBeKilled:
+      name: 
+      waitToFinish: 0
+      active: 0
+  - type: 5
+    createAICar:
+      name: 
+      waitToFinish: 0
+      car: 
+      skin: 
+      rims: 
+      weaponIndex: 0
+      spawnPosition: {x: 0, y: 0, z: 0}
+      spawnRotation: {x: 0, y: 0, z: 0, w: 0}
+      healthPercentage: 0
+      requireKill: 0
+    createClosingDoor:
+      name: 
+      waitToFinish: 0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: 
+      waitToFinish: 0
+      cameraFocus: 0
+      cameraPosition: {x: 0, y: 0, z: 0}
+      cameraRotation: {x: 0, y: 0, z: 0, w: 0}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 0
+    removeAllClosingDoors:
+      name: 
+      waitToFinish: 0
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: 
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: 
+      waitToFinish: 0
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: 
+      waitToFinish: 0
+      transitionType: 0
+      transitionDuration: 0
+    wait:
+      name: 
+      waitToFinish: 0
+      time: 0
+    waitForAllEnemiesToBeKilled:
+      name: 
+      waitToFinish: 0
+      active: 0
+  - type: 7
+    createAICar:
+      name: 
+      waitToFinish: 0
+      car: 
+      skin: 
+      rims: 
+      weaponIndex: 0
+      spawnPosition: {x: 0, y: 0, z: 0}
+      spawnRotation: {x: 0, y: 0, z: 0, w: 0}
+      healthPercentage: 0
+      requireKill: 0
+    createClosingDoor:
+      name: 
+      waitToFinish: 0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: 
+      waitToFinish: 0
+      cameraFocus: 0
+      cameraPosition: {x: 0, y: 0, z: 0}
+      cameraRotation: {x: 0, y: 0, z: 0, w: 0}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 0
+    removeAllClosingDoors:
+      name: 
+      waitToFinish: 0
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: 
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: 
+      waitToFinish: 0
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: 
+      waitToFinish: 0
+      transitionType: 0
+      transitionDuration: 0.5
+    wait:
+      name: 
+      waitToFinish: 0
+      time: 0
+    waitForAllEnemiesToBeKilled:
+      name: 
+      waitToFinish: 0
+      active: 0
+  - type: 8
+    createAICar:
+      name: 
+      waitToFinish: 0
+      car: 
+      skin: 
+      rims: 
+      weaponIndex: 0
+      spawnPosition: {x: 0, y: 0, z: 0}
+      spawnRotation: {x: 0, y: 0, z: 0, w: 0}
+      healthPercentage: 0
+      requireKill: 0
+    createClosingDoor:
+      name: 
+      waitToFinish: 0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: 
+      waitToFinish: 0
+      cameraFocus: 0
+      cameraPosition: {x: 0, y: 0, z: 0}
+      cameraRotation: {x: 0, y: 0, z: 0, w: 0}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 0
+    removeAllClosingDoors:
+      name: 
+      waitToFinish: 0
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: 
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: 
+      waitToFinish: 0
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: 
+      waitToFinish: 0
+      transitionType: 0
+      transitionDuration: 0.5
+    wait:
+      name: 
+      waitToFinish: 1
+      time: 1
+    waitForAllEnemiesToBeKilled:
+      name: 
+      waitToFinish: 0
+      active: 0
+  - type: 2
+    createAICar:
+      name: 
+      waitToFinish: 0
+      car: 
+      skin: 
+      rims: 
+      weaponIndex: 0
+      spawnPosition: {x: 0, y: 0, z: 0}
+      spawnRotation: {x: 0, y: 0, z: 0, w: 0}
+      healthPercentage: 0
+      requireKill: 0
+    createClosingDoor:
+      name: 
+      waitToFinish: 0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: 
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: -267.3, y: 125, z: 424.4}
+      cameraRotation: {x: 0.2232501, y: 0, z: 0, w: 0.9747612}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 0
+    removeAllClosingDoors:
+      name: 
+      waitToFinish: 0
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: 
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: 
+      waitToFinish: 0
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: 
+      waitToFinish: 0
+      transitionType: 0
+      transitionDuration: 0.5
+    wait:
+      name: 
+      waitToFinish: 1
+      time: 1
+    waitForAllEnemiesToBeKilled:
+      name: 
+      waitToFinish: 0
+      active: 0
+  - type: 7
+    createAICar:
+      name: 
+      waitToFinish: 0
+      car: 
+      skin: 
+      rims: 
+      weaponIndex: 0
+      spawnPosition: {x: 0, y: 0, z: 0}
+      spawnRotation: {x: 0, y: 0, z: 0, w: 0}
+      healthPercentage: 0
+      requireKill: 0
+    createClosingDoor:
+      name: 
+      waitToFinish: 0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: 
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: -267.3, y: 125, z: 424.4}
+      cameraRotation: {x: 0.2232501, y: 0, z: 0, w: 0.9747612}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 0
+    removeAllClosingDoors:
+      name: 
+      waitToFinish: 0
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: 
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: 
+      waitToFinish: 0
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: 
+      waitToFinish: 0
+      transitionType: 3
+      transitionDuration: 0.5
+    wait:
+      name: 
+      waitToFinish: 1
+      time: 1
+    waitForAllEnemiesToBeKilled:
+      name: 
+      waitToFinish: 0
+      active: 0
+  - type: 8
+    createAICar:
+      name: 
+      waitToFinish: 0
+      car: 
+      skin: 
+      rims: 
+      weaponIndex: 0
+      spawnPosition: {x: 0, y: 0, z: 0}
+      spawnRotation: {x: 0, y: 0, z: 0, w: 0}
+      healthPercentage: 0
+      requireKill: 0
+    createClosingDoor:
+      name: 
+      waitToFinish: 0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: 
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: -267.3, y: 125, z: 424.4}
+      cameraRotation: {x: 0.2232501, y: 0, z: 0, w: 0.9747612}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 0
+    removeAllClosingDoors:
+      name: 
+      waitToFinish: 0
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: 
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: 
+      waitToFinish: 0
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: 
+      waitToFinish: 0
+      transitionType: 3
+      transitionDuration: 0.5
+    wait:
+      name: 
+      waitToFinish: 1
+      time: 1
+    waitForAllEnemiesToBeKilled:
+      name: 
+      waitToFinish: 0
+      active: 0
+  - type: 3
+    createAICar:
+      name: 
+      waitToFinish: 0
+      car: 
+      skin: 
+      rims: 
+      weaponIndex: 0
+      spawnPosition: {x: 0, y: 0, z: 0}
+      spawnRotation: {x: 0, y: 0, z: 0, w: 0}
+      healthPercentage: 0
+      requireKill: 0
+    createClosingDoor:
+      name: 
+      waitToFinish: 0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: 
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: -267.3, y: 125, z: 424.4}
+      cameraRotation: {x: 0.2232501, y: 0, z: 0, w: 0.9747612}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 0
+    removeAllClosingDoors:
+      name: 
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: 
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: 
+      waitToFinish: 0
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: 
+      waitToFinish: 0
+      transitionType: 3
+      transitionDuration: 0.5
+    wait:
+      name: 
+      waitToFinish: 1
+      time: 1
+    waitForAllEnemiesToBeKilled:
+      name: 
+      waitToFinish: 0
+      active: 0
+  - type: 8
+    createAICar:
+      name: 
+      waitToFinish: 0
+      car: 
+      skin: 
+      rims: 
+      weaponIndex: 0
+      spawnPosition: {x: 0, y: 0, z: 0}
+      spawnRotation: {x: 0, y: 0, z: 0, w: 0}
+      healthPercentage: 0
+      requireKill: 0
+    createClosingDoor:
+      name: 
+      waitToFinish: 0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: 
+      waitToFinish: 1
+      cameraFocus: 0
+      cameraPosition: {x: -267.3, y: 125, z: 424.4}
+      cameraRotation: {x: 0.2232501, y: 0, z: 0, w: 0.9747612}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 0
+    removeAllClosingDoors:
+      name: 
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: 
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: 
+      waitToFinish: 0
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: 
+      waitToFinish: 0
+      transitionType: 3
+      transitionDuration: 0.5
+    wait:
+      name: 
+      waitToFinish: 1
+      time: 2
+    waitForAllEnemiesToBeKilled:
+      name: 
+      waitToFinish: 0
+      active: 0
+  - type: 2
+    createAICar:
+      name: 
+      waitToFinish: 0
+      car: 
+      skin: 
+      rims: 
+      weaponIndex: 0
+      spawnPosition: {x: 0, y: 0, z: 0}
+      spawnRotation: {x: 0, y: 0, z: 0, w: 0}
+      healthPercentage: 0
+      requireKill: 0
+    createClosingDoor:
+      name: 
+      waitToFinish: 0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: 
+      waitToFinish: 1
+      cameraFocus: 1
+      cameraPosition: {x: -267.3, y: 125, z: 424.4}
+      cameraRotation: {x: 0.2232501, y: 0, z: 0, w: 0.9747612}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 0
+    removeAllClosingDoors:
+      name: 
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: 
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: 
+      waitToFinish: 0
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: 
+      waitToFinish: 0
+      transitionType: 3
+      transitionDuration: 0.5
+    wait:
+      name: 
+      waitToFinish: 1
+      time: 2
+    waitForAllEnemiesToBeKilled:
+      name: 
+      waitToFinish: 0
+      active: 0
+  - type: 7
+    createAICar:
+      name: 
+      waitToFinish: 0
+      car: 
+      skin: 
+      rims: 
+      weaponIndex: 0
+      spawnPosition: {x: 0, y: 0, z: 0}
+      spawnRotation: {x: 0, y: 0, z: 0, w: 0}
+      healthPercentage: 0
+      requireKill: 0
+    createClosingDoor:
+      name: 
+      waitToFinish: 0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: 
+      waitToFinish: 1
+      cameraFocus: 1
+      cameraPosition: {x: -267.3, y: 125, z: 424.4}
+      cameraRotation: {x: 0.2232501, y: 0, z: 0, w: 0.9747612}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 0
+    removeAllClosingDoors:
+      name: 
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: 
+      waitToFinish: 1
+      show: 0
+    showModalPopup:
+      name: 
+      waitToFinish: 0
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: 
+      waitToFinish: 1
+      transitionType: 1
+      transitionDuration: 0.5
+    wait:
+      name: 
+      waitToFinish: 1
+      time: 2
+    waitForAllEnemiesToBeKilled:
+      name: 
+      waitToFinish: 0
+      active: 0
+  - type: 5
+    createAICar:
+      name: 
+      waitToFinish: 0
+      car: 
+      skin: 
+      rims: 
+      weaponIndex: 0
+      spawnPosition: {x: 0, y: 0, z: 0}
+      spawnRotation: {x: 0, y: 0, z: 0, w: 0}
+      healthPercentage: 0
+      requireKill: 0
+    createClosingDoor:
+      name: 
+      waitToFinish: 0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: 
+      waitToFinish: 1
+      cameraFocus: 1
+      cameraPosition: {x: -267.3, y: 125, z: 424.4}
+      cameraRotation: {x: 0.2232501, y: 0, z: 0, w: 0.9747612}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 0
+    removeAllClosingDoors:
+      name: 
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 0
+    showGameUI:
+      name: 
+      waitToFinish: 1
+      show: 1
+    showModalPopup:
+      name: 
+      waitToFinish: 0
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: 
+      waitToFinish: 1
+      transitionType: 1
+      transitionDuration: 0.5
+    wait:
+      name: 
+      waitToFinish: 1
+      time: 2
+    waitForAllEnemiesToBeKilled:
+      name: 
+      waitToFinish: 0
+      active: 0
+  - type: 4
+    createAICar:
+      name: 
+      waitToFinish: 0
+      car: 
+      skin: 
+      rims: 
+      weaponIndex: 0
+      spawnPosition: {x: 0, y: 0, z: 0}
+      spawnRotation: {x: 0, y: 0, z: 0, w: 0}
+      healthPercentage: 0
+      requireKill: 0
+    createClosingDoor:
+      name: 
+      waitToFinish: 0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0}
+      permanent: 0
+    handleCamera:
+      name: 
+      waitToFinish: 1
+      cameraFocus: 1
+      cameraPosition: {x: -267.3, y: 125, z: 424.4}
+      cameraRotation: {x: 0.2232501, y: 0, z: 0, w: 0.9747612}
+      aiIndex: 0
+      cameraOrbit: 0
+      orbitSpeed: 0
+    removeAllClosingDoors:
+      name: 
+      waitToFinish: 1
+    setGameActive:
+      name: NO NAME
+      waitToFinish: 1
+      active: 1
+    showGameUI:
+      name: 
+      waitToFinish: 1
+      show: 1
+    showModalPopup:
+      name: 
+      waitToFinish: 0
+      header: 
+      body: 
+      duration: 0
+    transition:
+      name: 
+      waitToFinish: 1
+      transitionType: 1
+      transitionDuration: 0.5
+    wait:
+      name: 
+      waitToFinish: 1
+      time: 2
+    waitForAllEnemiesToBeKilled:
+      name: 
+      waitToFinish: 0
+      active: 0

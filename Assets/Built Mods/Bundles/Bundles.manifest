@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 2617669380
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: modtest
+      Dependencies: {}
+    Info_1:
+      Name: modtestmodscenes
+      Dependencies:
+        Dependency_0: modtestmodscenedata
+    Info_2:
+      Name: modtestmodscenedata
+      Dependencies: {}

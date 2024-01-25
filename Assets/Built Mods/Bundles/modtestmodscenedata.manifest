@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 551584064
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e791689719c3e8ab1ac7fd5ed0a48b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68a1d56f4ed97530103cef3f4b8246b0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ModTest/SceneData/TerrainData_ea889a8d-7cd8-4bc9-9ac5-0a78bfbd669b.asset
+- Assets/ModTest/SceneData/Ground.mat
+- Assets/ModTest/SceneData/New Terrain.asset
+- Assets/ModTest/SceneData/TerrainData_bea8c8b8-15b4-463d-9a08-d02641df4a9c.asset
+- Assets/ModTest/SceneData/TerrainData_6baa6cb9-d85e-4c38-95aa-85deaf875f72.asset
+- Assets/ModTest/SceneData/dirt.jpg
+Dependencies: []

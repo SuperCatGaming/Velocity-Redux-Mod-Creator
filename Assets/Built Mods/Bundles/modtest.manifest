@@ -1,0 +1,210 @@
+ManifestFileVersion: 0
+CRC: 2529707997
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dfb55bd50606d76b82015f527fd1f520
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f3f5481d048c09985048488bd81b80bc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d615c2d9a7986c4ebc792828ca49bf8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ab9ba10bfbb4e9e4d872044e2aa0a678, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8f8a497bdecb34242b1867d96009ceb7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d18b1316334ccb45be0319ba14e3c24, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0201bf57a5751c4186660206ff379f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b5320bf7b982464393a4598b3d1bdd3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a573954e90b4d54fa9217e018427b53, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ed3790f228e33f4b98e8b93fddd8f6b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c54871569e11e94c92efc7746c2edbc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 38e2139bdad76ea4e942cdc7bbe48f0a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f7d1dc29ed51be419a06449e5babbfb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f83418903f4b7f746ba35203297b8019, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 496b361bf91eb9444ae48c4feba8aa45, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 143db18b1a579b44890911a3b8e22941, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0116bb76847083a44947286c74453700, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 286ab02f02bdcaf4ebd7d227ee66b383, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d3952978f74d7be46bae3ba0356e69a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ced57d5830326fc4a816ab38b6f86e5c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54bbc40e81afaf745ab68206da56abc8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee63a5711ca3e5f4890bb9d0daf81199, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca06ac43552ced749a55c912d1054627, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4cb19343e49f61f48aa87472819ca4e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 091bea0cdac7d8140bb8d2c325a2d79e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea9fde673bf49e547a29410668bb2ec3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ac4ed0b10636dc458be5551af375764, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 165ff772ed2bf9548b75d0d6a0c4595c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 146
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 215
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: AYellowpaper.SerializedCollections
+  ClassName: AYellowpaper.SerializedCollections.SerializedDictionary`2[System.String,System.String]
+- AssemblyName: AYellowpaper.SerializedCollections
+  ClassName: AYellowpaper.SerializedCollections.SerializedKeyValuePair`2[System.String,System.String]
+- AssemblyName: Assembly-CSharp
+  ClassName: AudioGear
+- AssemblyName: Assembly-CSharp
+  ClassName: MSS_CreateAICarMod
+- AssemblyName: Assembly-CSharp
+  ClassName: MSS_CreateClosingDoor
+- AssemblyName: Assembly-CSharp
+  ClassName: MSS_HandleCamera
+- AssemblyName: Assembly-CSharp
+  ClassName: MSS_RemoveAllClosingDoors
+- AssemblyName: Assembly-CSharp
+  ClassName: MSS_SetGameActive
+- AssemblyName: Assembly-CSharp
+  ClassName: MSS_ShowGameUI
+- AssemblyName: Assembly-CSharp
+  ClassName: MSS_ShowModalPopup
+- AssemblyName: Assembly-CSharp
+  ClassName: MSS_Transition
+- AssemblyName: Assembly-CSharp
+  ClassName: MSS_Wait
+- AssemblyName: Assembly-CSharp
+  ClassName: MSS_WaitForAllEnemiesToBeKilled
+- AssemblyName: Assembly-CSharp
+  ClassName: MissionSectionMod/SectionGoal
+- AssemblyName: Assembly-CSharp
+  ClassName: MissionSubSectionMod
+- AssemblyName: Assembly-CSharp
+  ClassName: NetworkGameSetup/NetworkGameType
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+Assets:
+- Assets/ModTest/Mod/Languages/English Details.asset
+- Assets/ModTest/Mod/Skins/1-4 Mile Coupe/10-Pack/10-Pack Again.asset
+- Assets/ModTest/Mod/Sounds/Horns/Fog_Horn.wav
+- Assets/ModTest/Mod/Skins/1-4 Mile Coupe/10-Pack/icon.png
+- Assets/ModTest/Mod/Sounds/Music/Modern1.ogg
+- Assets/ModTest/Mod/BoostThemes/Lime.asset
+- Assets/ModTest/Mod/Languages/English.asset
+- Assets/ModTest/Mod/Cars/BoxCar/Data/Color/ColorSkin.asset
+- Assets/ModTest/Mod/VRX_ModTool_Logo.png
+- Assets/ModTest/Mod/MenuBackgrounds/Tree_Textures/shadow.png
+- Assets/ModTest/Mod/Cars/BoxCar/Data/Default/Default.asset
+- Assets/ModTest/Mod/GameThemes/Greenier.asset
+- Assets/ModTest/Mod/Worlds/Mod Level/CTF/CTF.asset
+- Assets/ModTest/Mod/Worlds/Mod Level/CTF/CTFObjs.prefab
+- Assets/ModTest/Mod/Worlds/Mod Level/ModLevelInfo.asset
+- Assets/ModTest/Mod/Skins/1-4 Mile Coupe/10-Pack/10PData.asset
+- Assets/ModTest/Mod/Sounds/Music/Raimais.asset
+- Assets/ModTest/Mod/Worlds/Mod Level/MissionTest/Section2/MissionTestSec2Weapons.prefab
+- Assets/ModTest/Mod/MenuBackgrounds/Tree_Textures/diffuse.png
+- Assets/ModTest/Mod/Worlds/Mod Level/MissionTest/Mission Test.asset
+- Assets/ModTest/Mod/Worlds/Mod Level/Sprint/Sprint.asset
+- Assets/ModTest/Mod/Cars/BoxCar/Data/Default/icon.png
+- Assets/ModTest/Mod/MenuBackgrounds/Tree_Textures/normal_specular.png
+- Assets/ModTest/Mod/Worlds/Mod Level/MissionTest/Section3/Section 3.asset
+- Assets/ModTest/Mod/mod.asset
+- Assets/ModTest/Mod/Cars/BoxCar/Data/Color/icon.png
+- Assets/ModTest/Mod/Worlds/Mod Level/Gearhunt/Gears.prefab
+- Assets/ModTest/Mod/Worlds/Mod Level/Battle/Battle.asset
+- Assets/ModTest/Mod/Worlds/Mod Level/MissionTest/Section1/Section1Target.prefab
+- Assets/ModTest/Mod/Cars/BoxCar/Data/BoxCar.asset
+- Assets/ModTest/Mod/Worlds/Mod Level/Joyride.asset
+- Assets/ModTest/Mod/Worlds/Mod Level/Race/RaceObjects.prefab
+- Assets/ModTest/Mod/Cars/BoxCar/BoxCar.prefab
+- Assets/ModTest/Mod/MenuBackgrounds/TestMenu.prefab
+- Assets/ModTest/Mod/Sounds/Horns/Fog Horn.asset
+- Assets/ModTest/Mod/Sounds/Music/Modern1Loop.ogg
+- Assets/ModTest/Mod/Worlds/Mod Level/MissionTest/Section3/MissionTestSec3Trigger.prefab
+- Assets/ModTest/Mod/Rims/BWM/BW.asset
+- Assets/ModTest/Mod/Rims/BWM/BW.prefab
+- Assets/ModTest/Mod/Worlds/Mod Level/MissionTest/Section3/MissionTestSec3Enemies.prefab
+- Assets/ModTest/Mod/MenuBackgrounds/TestMenu.asset
+- Assets/ModTest/Mod/Worlds/Mod Level/Sprint/SprintObjects.prefab
+- Assets/ModTest/Mod/MenuBackgrounds/Tree_Textures/translucency_gloss.png
+- Assets/ModTest/Mod/Rims/BWM/BW BW.png
+- Assets/ModTest/Mod/Cars/BoxCar/Data/Default/DefaultData.asset
+- Assets/ModTest/Mod/Worlds/Mod Level/Gearhunt/Gearhunt.asset
+- Assets/ModTest/Mod/Worlds/Mod Level/MissionTest/Section1/Section 1.asset
+- Assets/ModTest/Mod/Worlds/Mod Level/Battle/Battle Objects.prefab
+- Assets/ModTest/Mod/Worlds/Mod Level/Race/Race.asset
+- Assets/ModTest/Mod/Rims/BWM/White.mat
+- Assets/ModTest/Mod/Worlds/Mod Level/MissionTest/Section2/Section 2.asset
+- Assets/ModTest/Mod/MenuBackgrounds/New Terrain.asset
+- Assets/ModTest/Mod/Cars/BoxCar/Data/Color/ColorData.asset
+- Assets/ModTest/Mod/Cars/BoxCar/Model.prefab
+Dependencies: []
