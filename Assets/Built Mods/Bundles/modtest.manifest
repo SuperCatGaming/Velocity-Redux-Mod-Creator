@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2529707997
+CRC: 4281056438
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dfb55bd50606d76b82015f527fd1f520
+    Hash: df4cc4d36455bce419a1e13ea20cc2c4
   TypeTreeHash:
     serializedVersion: 2
     Hash: f3f5481d048c09985048488bd81b80bc
@@ -205,6 +205,7 @@ Assets:
 - Assets/ModTest/Mod/Rims/BWM/White.mat
 - Assets/ModTest/Mod/Worlds/Mod Level/MissionTest/Section2/Section 2.asset
 - Assets/ModTest/Mod/MenuBackgrounds/New Terrain.asset
+- Assets/ModTest/Mod/New Material.mat
 - Assets/ModTest/Mod/Cars/BoxCar/Data/Color/ColorData.asset
 - Assets/ModTest/Mod/Cars/BoxCar/Model.prefab
 Dependencies: []
